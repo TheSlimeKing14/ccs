@@ -21,7 +21,7 @@
         "user": "#8B92A3"
     },
     "images": {
-        "background": "https://rcs.radiant.dj/15.png",
+        "background": "https://cdn.radiant.dj/rcs/bg/15.png",
         "playback": "http://i.imgur.com/1bjXpXk.png",
         "admin": "https://code.radiant.dj/require/icons/radiant/admin.png",
         "ambassador": "https://code.radiant.dj/require/icons/radiant/ambassador.png",
